@@ -1,2 +1,5 @@
 # hello-world
-test repository
+
+GREETINGS. I AM DEFINATELY NOT A ROBOT.
+
+THANK YOU FOR YOUR TIME, FELLOW HUMANS.
